@@ -31,6 +31,7 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 * [Caerus Investment Partners](http://www.caerusip.com/)
 * [Chicago Ventures](http://chicagoventures.com/)
 * [Cultivian Ventures](http://www.cultivian.com/)
+* DRW Venture Capital
 * [First Analysis Venture Capital](http://www.firstanalysis.com/) 
 * [Founder Equity](http://founderequity.com/) 
 * [Graphene Ventures](http://www.graphene.vc/)
@@ -157,3 +158,5 @@ As with many of my other posts, this is meant to be dynamic. If I’ve missed an
 - [Points and Figures](http://pointsandfigures.com/) (Jeff Carter)
 - [Eric Lefkofsky's Blog](http://www.lefkofsky.com/category/blog-and-news/)
 - [Breaking VC](http://www.breakingvc.com/) (Ezra Galston)
+- [vcwithme](https://vcwithme.co/) (Guy Turner)
+- [CMO to VC](http://cmovc.com/) (Tim Kopp)
